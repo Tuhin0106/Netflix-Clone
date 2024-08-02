@@ -1,6 +1,6 @@
 ## Netflix Clone
 This repository features a Netflix clone created using HTML and CSS. The project replicates the visual layout and styling of Netflix’s interface, demonstrating the ability to create engaging and responsive web designs with fundamental web technologies.
-
+## Live Link : https://netflix-clone-76gu.onrender.com/
 ## Features:
 ## Homepage Layout: 
 Mimics Netflix’s homepage with a top navigation bar, featured content, and a scrolling section for popular shows and movies.
